@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "## Task: Creating a day scheduler that dynamically changes and adjusts to user inputs. * Goal: To create a dynamic program that will assist the user in creating a README file that describes the project they're working on.  * Specifications: The program must use newly attained skills in Node JS to use input from the terminal to create a README file with proper formatting.  * Points of Emphasis: Along with ensuring the functionality of the application, a video must be provided walking the user through the experience. This project is completed when fully functioning Javascript and READ.ME files are pushed and submitted into a github repository along with the video tutorial. Then the Link is shown here:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitchellM27/Readme-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitchellM27/Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/MitchellM27/Readme-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
